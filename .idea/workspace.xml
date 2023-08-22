@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="332f64df-44c3-47bd-854e-38e9703d8358" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Taskd/entities.jdl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/.devcontainer/devcontainer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/.devcontainer/devcontainer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/.yo-rc.json" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/.yo-rc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/jest.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/jest.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/sonar-project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/sonar-project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/docker/app.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/docker/app.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/docker/jhipster-control-center.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/docker/jhipster-control-center.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/docker/jib/entrypoint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/docker/jib/entrypoint.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/docker/monitoring.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/docker/monitoring.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/docker/sonar.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/docker/sonar.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/resources/.h2.server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/resources/.h2.server.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/resources/config/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/resources/config/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/resources/config/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/resources/config/liquibase/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/resources/config/liquibase/master.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/resources/i18n/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/resources/i18n/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/webapp/app/config/dayjs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/webapp/app/config/dayjs.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/webapp/manifest.webapp" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/webapp/manifest.webapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/main/webapp/swagger-ui/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/main/webapp/swagger-ui/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/test/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/test/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/test/resources/config/application-testprod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/test/resources/config/application-testprod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/test/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/test/resources/config/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/test/resources/i18n/messages_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/test/resources/i18n/messages_en.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/test/resources/junit-platform.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/src/test/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/src/test/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskd/webpack/environment.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taskd/webpack/environment.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Taskd" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ULVHhfmB1XwlhlrittMUYaQqwq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Taskd" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="332f64df-44c3-47bd-854e-38e9703d8358" name="Changes" comment="" />
+      <created>1692718761868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692718761868</updated>
+    </task>
+    <servers />
+  </component>
+</project>
