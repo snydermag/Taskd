@@ -1,0 +1,10 @@
+{
+  "taskdApp": {
+    "Type": {
+      "null": "",
+      "ONGOING": "ONGOING",
+      "RECURRING": "RECURRING",
+      "SINGLE": "SINGLE"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "taskdApp": {
+    "Category": {
+      "null": "",
+      "HOME": "HOME",
+      "WORK": "WORK",
+      "CAR": "CAR",
+      "PERSONAL": "PERSONAL",
+      "OTHER": "OTHER"
+    }
+  }
+}

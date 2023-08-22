@@ -1,0 +1,45 @@
+{
+  "applications": ["Taskd"],
+  "changelogDate": "20230822212704",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "task",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "type",
+      "fieldType": "Type",
+      "fieldValues": "ONGOING,RECURRING,SINGLE"
+    },
+    {
+      "fieldName": "category",
+      "fieldType": "Category",
+      "fieldValues": "HOME,WORK,CAR,PERSONAL,OTHER"
+    },
+    {
+      "fieldName": "remindDate",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "recurringTime",
+      "fieldType": "Integer"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Task",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityField": "login",
+      "otherEntityName": "user",
+      "relationshipName": "assignedTo",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "service": "no"
+}
