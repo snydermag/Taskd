@@ -1,0 +1,33 @@
+
+application {
+  config {
+    baseName Taskd,
+    applicationType monolith,
+    packageName maggie.zipcode.taskd,
+    authenticationType jwt,
+    prodDatabaseType mysql,
+    clientFramework react
+  }
+  entities *
+}
+
+entity Task {
+	name String
+    type Type
+    category Category
+  	remindDate LocalDate
+    recurringTime Integer
+}
+
+enum Type {
+	ONGOING, RECURRING, SINGLE
+}
+
+enum Category {
+	HOME, WORK, CAR, PERSONAL, OTHER
+}
+
+relationship ManyToOne {
+   Task{assignedTo(login)} to User
+}
+    
