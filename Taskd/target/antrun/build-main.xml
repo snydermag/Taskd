@@ -3,9 +3,9 @@
   <target name="main">
     <condition else="false" property="skip.npm" value="true">
       <and>
-        <available file="checksums.csv" filepath="/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/target" />
-        <available file="checksums.csv.old" filepath="/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/target" />
-        <filesmatch file2="/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/target/checksums.csv.old" file1="/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/target/checksums.csv" />
+        <available file="checksums.csv" filepath="/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/target" />
+        <available file="checksums.csv.old" filepath="/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/target" />
+        <filesmatch file2="/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/target/checksums.csv.old" file1="/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/target/checksums.csv" />
       </and>
     </condition>
   </target>
