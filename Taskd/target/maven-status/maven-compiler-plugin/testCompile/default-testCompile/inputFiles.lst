@@ -1,31 +1,33 @@
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/errors/ExceptionTranslatorTestController.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/TestUtil.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/errors/ExceptionTranslatorIT.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/WithUnauthenticatedMockUser.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/UserJWTControllerIT.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/TestContainersSpringContextCustomizerFactory.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/security/DomainUserDetailsServiceIT.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/repository/timezone/DateTimeWrapper.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/PublicUserResourceIT.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/StaticResourcesWebConfigurerTest.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/service/UserServiceIT.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/security/jwt/JWTFilterTest.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/IntegrationTest.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/SpringBootTestClassOrderer.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/security/jwt/TokenProviderSecurityMetersTests.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/management/SecurityMetersServiceTests.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/service/mapper/UserMapperTest.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/UserResourceIT.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/WebConfigurerTest.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/ClientForwardControllerTest.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/service/MailServiceIT.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/AccountResourceIT.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/AsyncSyncConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/repository/timezone/DateTimeWrapperRepository.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/SqlTestContainer.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/security/SecurityUtilsUnitTest.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/TechnicalStructureTest.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/timezone/HibernateTimeZoneIT.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/WebConfigurerTestController.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/EmbeddedSQL.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/security/jwt/TokenProviderTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/repository/timezone/DateTimeWrapper.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/AccountResourceIT.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/management/SecurityMetersServiceTests.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/service/MailServiceIT.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/security/SecurityUtilsUnitTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/TechnicalStructureTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/WebConfigurerTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/StaticResourcesWebConfigurerTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/UserResourceIT.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/domain/TaskTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/security/jwt/JWTFilterTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/errors/ExceptionTranslatorTestController.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/service/mapper/UserMapperTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/TestUtil.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/SqlTestContainer.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/WebConfigurerTestController.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/UserJWTControllerIT.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/EmbeddedSQL.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/TestContainersSpringContextCustomizerFactory.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/ClientForwardControllerTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/AsyncSyncConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/repository/timezone/DateTimeWrapperRepository.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/errors/ExceptionTranslatorIT.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/security/jwt/TokenProviderTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/security/DomainUserDetailsServiceIT.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/TaskResourceIT.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/timezone/HibernateTimeZoneIT.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/security/jwt/TokenProviderSecurityMetersTests.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/WithUnauthenticatedMockUser.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/web/rest/PublicUserResourceIT.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/IntegrationTest.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/service/UserServiceIT.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/test/java/maggie/zipcode/taskd/config/SpringBootTestClassOrderer.java

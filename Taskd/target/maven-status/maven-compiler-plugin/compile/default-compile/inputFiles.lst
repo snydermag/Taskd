@@ -1,67 +1,72 @@
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/repository/UserRepository.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/UserResource.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/BadRequestAlertException.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/StaticResourcesWebConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/repository/package-info.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/dto/AdminUserDTO.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/EmailAlreadyUsedException.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/package-info.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/FieldErrorVM.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/AsyncConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/package-info.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/CRLFLogConverter.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/UsernameAlreadyUsedException.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/UserNotActivatedException.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/jwt/JWTFilter.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/AuthoritiesConstants.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/dto/PasswordChangeDTO.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/mapper/UserMapper.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/EmailAlreadyUsedException.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/jwt/TokenProvider.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/LocaleConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/repository/AuthorityRepository.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/vm/ManagedUserVM.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/aop/logging/LoggingAspect.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/DomainUserDetailsService.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/package-info.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/package-info.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/AbstractAuditingEntity.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/vm/package-info.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/dto/UserDTO.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/SecurityConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/SpringSecurityAuditorAware.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/Constants.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/UserService.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/WebConfigurer.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/ExceptionTranslator.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/MailService.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/LoginAlreadyUsedException.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/jwt/JWTConfigurer.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/ApplicationProperties.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/Authority.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/LiquibaseConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/package-info.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/LoggingAspectConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/dto/package-info.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/SecurityUtils.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/InvalidPasswordException.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/DateTimeFormatConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/UserJWTController.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/package-info.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/ErrorConstants.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/GeneratedByJHipster.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/LoggingConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/ClientForwardController.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/PublicUserResource.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/vm/LoginVM.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/User.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/InvalidPasswordException.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/JacksonConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/DatabaseConfiguration.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/AccountResource.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/mapper/package-info.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/vm/KeyAndPasswordVM.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/management/SecurityMetersService.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/ApplicationWebXml.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/TaskdApp.java
-/Users/maggie/Projects/1 Personal Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/CacheConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/ApplicationProperties.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/SecurityUtils.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/MailService.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/LiquibaseConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/UserService.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/InvalidPasswordException.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/LoggingAspectConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/DomainUserDetailsService.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/JacksonConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/dto/UserDTO.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/ClientForwardController.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/SecurityConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/TaskdApp.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/AbstractAuditingEntity.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/SpringSecurityAuditorAware.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/PublicUserResource.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/package-info.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/aop/logging/LoggingAspect.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/UserResource.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/ApplicationWebXml.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/enumeration/Type.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/Task.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/TaskResource.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/AsyncConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/StaticResourcesWebConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/dto/AdminUserDTO.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/User.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/vm/package-info.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/AuthoritiesConstants.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/jwt/JWTConfigurer.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/mapper/UserMapper.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/package-info.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/EmailAlreadyUsedException.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/UserNotActivatedException.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/repository/UserRepository.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/jwt/JWTFilter.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/vm/ManagedUserVM.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/ExceptionTranslator.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/package-info.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/enumeration/Category.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/repository/AuthorityRepository.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/DateTimeFormatConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/DatabaseConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/ErrorConstants.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/CacheConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/UserJWTController.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/UsernameAlreadyUsedException.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/Authority.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/repository/TaskRepository.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/management/SecurityMetersService.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/dto/PasswordChangeDTO.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/jwt/TokenProvider.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/AccountResource.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/LoggingConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/EmailAlreadyUsedException.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/FieldErrorVM.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/repository/package-info.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/package-info.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/vm/KeyAndPasswordVM.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/BadRequestAlertException.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/mapper/package-info.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/domain/package-info.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/vm/LoginVM.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/GeneratedByJHipster.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/security/package-info.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/CRLFLogConverter.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/web/rest/errors/LoginAlreadyUsedException.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/dto/package-info.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/Constants.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/LocaleConfiguration.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/service/InvalidPasswordException.java
+/Users/maggie/Projects/1-Personal-Projects/Taskd/Taskd/src/main/java/maggie/zipcode/taskd/config/WebConfigurer.java

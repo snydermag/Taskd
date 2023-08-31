@@ -36,7 +36,7 @@ export const Home = () => {
               <Translate contentKey="global.messages.info.authenticated.prefix">If you want to </Translate>
 
               <Link to="/login" className="alert-link">
-                <Translate contentKey="global.messages.info.authenticated.link"> sign in</Translate>
+                <Translate contentKey="global.messages.info.authenticated.link"> SIGN IN</Translate>
               </Link>
               <Translate contentKey="global.messages.info.authenticated.suffix">
                 , you can try the default accounts:

@@ -1,7 +1,7 @@
 {
   "home": {
-    "title": "Welcome, Kash!",
-    "subtitle": "This is your homepage",
+    "title": "Welcome to Taskd!",
+    "subtitle": "A new way to get things done",
     "logged": {
       "message": "You are logged in as user \"{{username}}\"."
     },
