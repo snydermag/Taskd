@@ -5,6 +5,7 @@ import 'app/config/dayjs.ts';
 import React, { useEffect } from 'react';
 import { Card } from 'reactstrap';
 import { BrowserRouter } from 'react-router-dom';
+import { Translate } from 'react-jhipster';
 import { ToastContainer, toast } from 'react-toastify';
 
 import { useAppDispatch, useAppSelector } from 'app/config/store';
@@ -56,7 +57,11 @@ export const App = () => {
               <AppRoutes />
             </ErrorBoundary>
           </Card>
-          <Footer />
+          <footer>
+            <a href="https://www.linkedin.com/in/margaret-snyder/" target="_blank" rel="noopener noreferrer">
+              <Translate contentKey="home.link.linkedIn">Margaret Snyder</Translate>
+            </a>
+          </footer>
         </div>
       </div>
     </BrowserRouter>
